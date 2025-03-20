@@ -166,10 +166,10 @@ span {
 }
 
 .experiences {
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
-    gap: 2rem;
+    /* gap: 2rem; */
     background: var(--snd-bf-color);
     padding: 3%;
 }
