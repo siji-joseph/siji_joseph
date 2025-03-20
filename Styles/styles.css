@@ -165,6 +165,15 @@ span {
     background: var(--snd-bf-color);
 }
 
+.experiences {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background: var(--snd-bf-color);
+    padding: 3%;
+}
+
 .about-img img{
     width: 35vw;
 }
@@ -174,16 +183,20 @@ span {
     font-size: 4.5rem;
 }
 
-.about-content h2 {
+.about-content h2, .experience-content h2 {
     text-align: left;
     line-height: 1.2;
 }
 
-.about-content h3 {
+ul.b {
+    list-style-type: square;
+}
+
+.about-content h3, .experience-content h3 {
     font-size: 2.6rem;
 }
 
-.about-content p {
+.about-content p, .experience-content p, .experience-content li {
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
 }
