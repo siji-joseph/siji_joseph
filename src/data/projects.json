@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Facade Installations",
+    "imageSrc": "projects/facade.jpg",
+    "description": "This is a project to showcase projects and services for a Facade installation company using Wordpress",
+    "skills": ["PHP", "Wordpress"],
+    "demo": "https://facadeinstallations.co.nz",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "AI chat Application",
+    "imageSrc": "projects/aichat.png",
+    "description": "Fullstack AI chat Application Using Raect Node Js and MongoDB.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://client-delta-gilt.vercel.app",
+    "source": "https://www.github.com"
+  }
+]

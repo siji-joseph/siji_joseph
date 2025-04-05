@@ -1,0 +1,56 @@
+[
+  {
+    "role": "BI/ Data Analyst Training ",
+    "organisation": "Industry Connect",
+    "startDate": "March, 2025",
+    "endDate": "Present",
+    "experiences": ["Learning Power BI, Sql Querying, data visualization"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Freelance Developer ",
+    "organisation": "Remote",
+    "startDate": "Nov, 2024",
+    "endDate": "Present",
+    "experiences": ["Creating and hosting websites for clients", "Maintenance of existing websites"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Coding expert- AI training ",
+    "organisation": "Outlier AI",
+    "startDate": "Nov, 2024",
+    "endDate": "Present",
+    "experiences": ["train and improve generative AI models", "AI code evaluation and feedback"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Intern Software Developer",
+    "organisation": "Gherkin Media, New Zealand",
+    "startDate": "Oct, 2024",
+    "endDate": "Dec, 2024",
+    "experiences": ["Worked on Wordpress sites", "Collaborated with team"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Softwre Developer",
+    "organisation": "Abacies",
+    "startDate": "June, 2019",
+    "endDate": "May, 2023",
+    "experiences": [
+      "Developed web applications using PHP, JS, React",
+      "Worked on API developemnt", "Experience on Agile methodologies, Git"
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Softwre Developer",
+    "organisation": "Quadzeta",
+    "startDate": "June, 2018",
+    "endDate": "May, 2019",
+    "experiences": [
+      "Developed web application using PHP, JS",
+      "Worked on Database"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
